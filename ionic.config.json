@@ -1,8 +1,0 @@
-{
-  "name": "outreach",
-  "app_id": "7743c781",
-  "type": "ionic-angular",
-  "integrations": {
-    "cordova": {}
-  }
-}
